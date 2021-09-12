@@ -27,10 +27,10 @@ text-align: center;
 .country {
   font-family: 'Merriweather Sans', sans-serif;
   font-weight: bold;
-  height: 30px;
-  border-radius: 7px;
-  text-indent: 5px;
-  width: 160px;
+  height: 1.875rem;
+  border-radius: 0.438rem;
+  text-indent: 0.313rem;
+  width: 10rem;
   border: none;
 }
 
@@ -40,22 +40,22 @@ text-align: center;
 }
 
 .country-opt{
-  border-radius: 7px;
+  border-radius: 0.438rem;
 }
 
 .divider1 {
-  width: 539px;
+  width: 33.688rem;
   text-align: center;
   color: white;
-  height: 10px;
+  height: 0.625rem;
 }
 
 .number-input {
   border: none;
-  border-radius: 7px;
-  text-indent: 10px;
-  height: 60px;
-  width: 350px;
+  border-radius: 0.438rem;
+  text-indent: 0.625rem;
+  height: 3.75rem;
+  width: 21.875rem;
   font-size: 2rem;
   font-family: 'Merriweather Sans', sans-serif;
 }
@@ -70,10 +70,10 @@ text-align: center;
 
 .submit-btn {
   border: none;
-  border-radius: 7px;
-  height: 60px;
-  margin-top: 16px;
-  width: 350px;
+  border-radius: 0.438rem;
+  height: 3.75rem;
+  margin-top: 1rem;
+  width: 21.875rem;
 }
 
 .submit-btn:hover{
@@ -91,12 +91,12 @@ text-align: center;
   color: red;
   font-family: 'Merriweather Sans', sans-serif;
   font-weight: bold;
-  margin-top: 16px;
+  margin-top: 1rem;
 }
 
 .header{
   background-color: #00BFA5;
-  height: 100px;
+  height: 6.25rem;
   text-align: center;
 }
 
@@ -108,7 +108,7 @@ text-align: center;
 }
 
 .headtext2 {
- margin-top: 10px;
+ margin-top: 0.625rem;
  color: #e1efff ;
  font-family: 'Merriweather Sans', sans-serif;
 }
